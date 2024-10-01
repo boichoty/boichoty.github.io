@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://boichoty.github.io/sitemap/sitemap.txt
